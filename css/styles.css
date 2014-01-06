@@ -4,19 +4,19 @@ body{
     background-image: url('../images/background.jpg');
     background-repeat: repeat;
 }
-#bookmarks a:hover{
-    background-image: url('../images/tint.png');
-}
+
 #bookmarks a {
-    margin-right: 20px;
     width: 150px;
 }
 #bookmarks {
     position: fixed;
     width: 200px;
+    top: 40px;
 }
 #bookmarks img {
     width: 150px;
+    padding-bottom: 30px;
+    top: 50px;
 }
 #calculator {
     position: fixed;
@@ -29,6 +29,29 @@ body{
 }
 #calendar iframe {
     position: absolute;
+}
+#quote {
+    background-image: url('../images/sticky.png');
+    font-family: 'Patrick Hand SC';
+    position: fixed;
+    bottom: 50px;
+    left: 480px;
+    width: 294px;
+    height: 295px;
+}
+#famous_quotes_widget_border {
+    padding: 10px 10px 10px 10px;
+    font-size: 18px !important;
+    background-color: transparent;
+    border: medium none;
+    width: 250px;
+    margin: 10px auto;
+}
+#WR_famous_quotes_widget_checker {
+    font-size: 9px;
+    position: absolute;
+    bottom: 2em;
+    right: 15px;
 }
 #weather {
     position: fixed;
