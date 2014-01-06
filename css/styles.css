@@ -25,12 +25,12 @@ body{
 }
 #calendar {
     position: fixed;
-    right: 610px;
+    right: 629px;
 }
 #calendar iframe {
     position: absolute;
     height: 538px;
-    width: 600px
+    width: 621px
 }
 .notepad{
     border:1px solid gray;
