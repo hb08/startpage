@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d5d09b11-e5c7-4bb0-a3e2-89ce14c6b6f2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
     </list>
     <ignored path="startpage.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,19 +28,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="14" selection-start="207" selection-end="207" vertical-scroll-proportion="0.27817404">
+            <state line="13" column="14" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="165" selection-start="2497" selection-end="2497" vertical-scroll-proportion="-12.5">
+            <state line="24" column="54" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.5217391">
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -71,14 +70,14 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="39" />
-    <option name="y" value="42" />
+    <option name="x" value="-6" />
+    <option name="y" value="24" />
     <option name="width" value="1420" />
     <option name="height" value="860" />
   </component>
@@ -165,7 +164,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="42" width="1420" height="860" extended-state="0" />
+    <frame x="-6" y="24" width="1420" height="860" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -247,9 +246,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="14" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="165" selection-start="2497" selection-end="2497" vertical-scroll-proportion="-12.5">
+        <state line="24" column="54" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.5217391">
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -257,13 +263,6 @@
             <element signature="tag#div#1;tag#div#3;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#iframe#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="14" selection-start="207" selection-end="207" vertical-scroll-proportion="0.27817404">
-          <folding />
         </state>
       </provider>
     </entry>
