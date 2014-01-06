@@ -1,0 +1,46 @@
+<!-- Linking your JavaScript with your HTML -->
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Hello!</title>
+    <link rel="stylesheet" href="css/styles.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="html5notepad.css" />
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+
+    <script src="js/script.js">
+
+        /***********************************************
+         * HTML5 Notepad- (c) Dynamic Drive (www.dynamicdrive.com)
+         * This notice MUST stay intact for legal use
+         * Visit http://www.dynamicdrive.com/ for this script and 100s more.
+         ***********************************************/
+
+    </script>
+    <script>
+
+        jQuery(function($){ //on document.ready
+            notepad.loadpad('mynotepad1', [650,10]) //load "mynotepad1" when document loads
+        })
+
+    </script>
+    <link href='http://fonts.googleapis.com/css?family=Rock+Salt' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Covered+By+Your+Grace' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+<div id="bookmarks">
+    <a href="https://orgsync.com/home"><img src="images/fullsail.jpg" /></a>
+    <a href="http://z6.invisionfree.com/Claremont_Academy/index.php"><img src="images/claremont.jpg" /></a>
+    <a href="https://www.google.com/imghp?hl=en&tab=wi&ei=rx_JUp3yMsLLkAef3IDIAQ&ved=0CAQQqi4oAg"><img src="images/images.jpg" /></a>
+    <a href="https://www.atomicwebhosting.com/clients/clientarea.php?action=productdetails"><img src="images/atomic.jpg" /></a>
+    <a href="http://claremontacademy.rpgcorner.net/index.html"><img src="images/claremontbuild.jpg" /></a>
+</div>
+<div id="calculator">
+    <iframe src="http://www.uize.com/widgets/calculator/web.html" style="width:240px; height:314px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<div id="calendar">
+    <iframe src="https://www.google.com/calendar/embed?title=My%20Events&amp;height=400&amp;wkst=1&amp;&amp;src=6l7j7ts4b2hah0jatkkv5h0lug%40group.calendar.google.com&amp;color=%232F6309&amp;src=fated.decree%40gmail.com&amp;color=%232952A3&amp;src=0bvq709qe8b23tj5qvg821a78o%40group.calendar.google.com&amp;color=%232952A3&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FNew_York"></iframe>
+</div>
+</body>
+</html>
