@@ -1,7 +1,8 @@
 /* CSS */
 
 body{
-    background-image: url('http://www.commentnation.com/hotlinks/seamless_argyle_pattern_mauve.gif');
+    background-image: url('../images/background.jpg');
+    background-repeat: repeat;
 }
 #bookmarks a:hover{
     background-image: url('../images/tint.png');
