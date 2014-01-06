@@ -9,10 +9,14 @@ body{
 }
 #bookmarks a {
     margin-right: 20px;
+    width: 150px;
 }
 #bookmarks {
     position: fixed;
-    width: 900px;
+    width: 200px;
+}
+#bookmarks img {
+    width: 150px;
 }
 #calculator {
     position: fixed;
@@ -36,7 +40,7 @@ body{
     box-shadow: 0 0 12px #818181;
     -webkit-box-shadow: 0 0 12px #818181;
     -moz-box-shadow: 0 0 12px #818181;
-    width:760px;
+    width:500px;
     height: 350px;
     padding:7px 10px;
     position:absolute;
