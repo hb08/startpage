@@ -74,7 +74,7 @@ body{
     width:500px;
     height: 350px;
     padding:7px 10px;
-    position:absolute;
+    position:fixed;
     cursor:pointer;
 }
 
