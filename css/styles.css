@@ -30,6 +30,12 @@ body{
 #calendar iframe {
     position: absolute;
 }
+#weather {
+    width: 216px;
+    position: fixed;
+    left: 500px;
+    bottom: 190px;
+}
 .notepad{
     border:1px solid gray;
     background-image: url('../images/notebook.jpg');
