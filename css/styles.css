@@ -20,18 +20,17 @@ body{
 }
 #calculator {
     position: fixed;
-        left: 350px;
-        bottom: 4px;
+        left: 210px;
+        bottom: 35px;
 }
 #calendar {
     position: fixed;
-    bottom: 360px;
-    right: 793px;
+    right: 610px;
 }
 #calendar iframe {
     position: absolute;
-    height: 355px;
-    width: 775px
+    height: 500px;
+    width: 600px
 }
 .notepad{
     border:1px solid gray;
