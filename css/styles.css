@@ -29,8 +29,6 @@ body{
 }
 #calendar iframe {
     position: absolute;
-    height: 600px;
-    width: 621px
 }
 .notepad{
     border:1px solid gray;
