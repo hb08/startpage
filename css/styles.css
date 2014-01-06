@@ -31,10 +31,15 @@ body{
     position: absolute;
 }
 #weather {
-    width: 216px;
     position: fixed;
-    left: 500px;
-    bottom: 190px;
+    left: 900px;
+    bottom: 0px;
+    width: 600px;
+}
+#capeCoral, #snowflake {
+    width: 200px;
+    display: inline-block;
+    padding-right: 25px;
 }
 .notepad{
     border:1px solid gray;
