@@ -3,29 +3,29 @@
 <html>
 <head>
     <title>Hello!</title>
+    <!-- My Stylesheets -->
     <link rel="stylesheet" href="css/styles.css" type="text/css" />
     <link rel="stylesheet" type="text/css" href="html5notepad.css" />
 
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+    <!-- Imports -->
+        <!-- Fonts -->
+            <link href='http://fonts.googleapis.com/css?family=Rock+Salt' rel='stylesheet' type='text/css'>
+            <link href='http://fonts.googleapis.com/css?family=Covered+By+Your+Grace' rel='stylesheet' type='text/css'>
 
-    <script src="js/script.js">
-
-        /***********************************************
-         * HTML5 Notepad- (c) Dynamic Drive (www.dynamicdrive.com)
-         * This notice MUST stay intact for legal use
-         * Visit http://www.dynamicdrive.com/ for this script and 100s more.
-         ***********************************************/
-
-    </script>
-    <script>
-
-        jQuery(function($){ //on document.ready
-            notepad.loadpad('mynotepad1', [210,10]) //load "mynotepad1" when document loads
-        })
-
-    </script>
-    <link href='http://fonts.googleapis.com/css?family=Rock+Salt' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Covered+By+Your+Grace' rel='stylesheet' type='text/css'>
+        <!-- Notepad -->
+            <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+            <script src="js/script.js">
+                /***********************************************
+                 * HTML5 Notepad- (c) Dynamic Drive (www.dynamicdrive.com)
+                 * This notice MUST stay intact for legal use
+                 * Visit http://www.dynamicdrive.com/ for this script and 100s more.
+                 ***********************************************/
+            </script>
+            <script>
+                jQuery(function($){ //on document.ready
+                    notepad.loadpad('mynotepad1', [210,10]) //load "mynotepad1" when document loads
+                })
+            </script>
 
 </head>
 <body>
@@ -36,11 +36,22 @@
     <a href="https://www.atomicwebhosting.com/clients/clientarea.php?action=productdetails"><img src="images/atomic.jpg" /></a>
     <a href="http://claremontacademy.rpgcorner.net/index.html"><img src="images/claremontbuild.jpg" /></a>
 </div>
+
 <div id="calculator">
     <iframe src="http://www.uize.com/widgets/calculator/web.html" style="width:240px; height:314px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 </div>
+
+<div id="weather">
+    <a href="http://www.accuweather.com/en/us/new-york-ny/10007/weather-forecast/349727" class="aw-widget-legal">
+        <!--
+        By accessing and/or using this code snippet, you agree to AccuWeather’s terms and conditions (in English) which can be found at http://www.accuweather.com/en/free-weather-widgets/terms and AccuWeather’s Privacy Statement (in English) which can be found at http://www.accuweather.com/en/privacy.
+        -->
+    </a><div id="awcc1389011641113" class="aw-widget-current"  data-locationkey="" data-unit="f" data-language="en-us" data-useip="true" data-uid="awcc1389011641113"></div><script type="text/javascript" src="http://oap.accuweather.com/launch.js"></script>
+</div>
+
 <div id="calendar">
     <iframe src="https://www.google.com/calendar/embed?title=To%20Do&amp;showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTz=0&amp;height=500&amp;wkst=1&amp;bgcolor=%23E3E9FF&amp;src=6l7j7ts4b2hah0jatkkv5h0lug%40group.calendar.google.com&amp;color=%232F6309&amp;src=fated.decree%40gmail.com&amp;color=%232952A3&amp;src=0bvq709qe8b23tj5qvg821a78o%40group.calendar.google.com&amp;color=%232952A3&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%232952A3&amp;ctz=Pacific%2FMidway" style=" border-width:0 " width="625" height="500" frameborder="0" scrolling="no"></iframe>
 </div>
+
 </body>
 </html>
