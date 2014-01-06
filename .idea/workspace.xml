@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5d09b11-e5c7-4bb0-a3e2-89ce14c6b6f2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
     </list>
     <ignored path="startpage.iws" />
@@ -27,19 +26,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="14" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0">
+            <state line="31" column="15" selection-start="517" selection-end="517" vertical-scroll-proportion="0.42796007">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="4" selection-start="2582" selection-end="2582" vertical-scroll-proportion="0.82608694">
+            <state line="43" column="4" selection-start="2582" selection-end="2582" vertical-scroll-proportion="-20.625">
               <folding />
             </state>
           </provider>
@@ -63,8 +62,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
       </list>
     </option>
   </component>
@@ -239,16 +238,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="14" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0">
+        <state line="43" column="4" selection-start="2582" selection-end="2582" vertical-scroll-proportion="-20.625">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="4" selection-start="2582" selection-end="2582" vertical-scroll-proportion="0.82608694">
+        <state line="31" column="15" selection-start="517" selection-end="517" vertical-scroll-proportion="0.42796007">
           <folding />
         </state>
       </provider>
