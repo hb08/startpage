@@ -3,6 +3,7 @@
 body{
     background-image: url('../images/background.jpg');
     background-repeat: repeat;
+    min-width: 1398px;
 }
 
 #bookmarks a {
