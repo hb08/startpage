@@ -25,8 +25,8 @@ body{
         bottom: 35px;
 }
 #calendar {
-    position: fixed;
-    right: 635px;
+    position: absolute;
+    left: 800px;
 }
 #calendar iframe {
     position: absolute;
